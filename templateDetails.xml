@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
 <extension version="2.5" type="template" client="site" method="upgrade">
-  <name>SET_NAME</name>
+  <name>strochka</name>
   <version>1.0</version>
-  <creationDate>SET_DATE</creationDate>
-  <author>BLANK_TEMPLATE</author>
+  <creationDate>22.01.2017</creationDate>
+  <author>germanius</author>
 
   <files>
     <folder>css</folder>
@@ -16,7 +16,6 @@
     <file>index.html</file>
     <file>index.php</file>
     <file>templateDetails.xml</file>
-    <file>favicon.ico</file>
   </files>
   <positions>
 
